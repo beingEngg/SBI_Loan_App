@@ -12,7 +12,7 @@ public class App
 		String s="commit";
 
         int i=10;
-
+        int j=20;
         System.out.println( "Hello World!" );
     }
 }
